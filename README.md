@@ -1,12 +1,12 @@
 1. DDL (Data Definition Language)
-   - CREATE: Used to create tables, databases, indexes, and other objects.
+   - CREATE: Used to create tables, databases, indexes, and other objects. 
    - ALTER: Used to modify existing database structures.
    - DROP: Deletes tables, databases, indexes, etc.
    - TRUNCATE: Removes all records from a table without logging individual row deletions.
    - RENAME: Changes the name of an existing database object.
 
 2. DML (Data Manipulation Language)
-   - SELECT: Retrieves data from a database.
+   - SELECT: Retrieves data from a database.     
    - INSERT: Adds new records to a table.
    - UPDATE: Modifies existing records in a table.
    - DELETE: Removes records from a table.
