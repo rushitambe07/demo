@@ -28,7 +28,6 @@
    - CHECK: Ensures that all values in a column satisfy a condition.
    - DEFAULT: Sets a default value for a column if no value is provided.
 
-
 7. SQL Functions
    - Aggregate Functions: COUNT(), SUM(), AVG(), MIN(), MAX()
    - String Functions: CONCAT(), LENGTH(), UPPER(), LOWER(), SUBSTRING()
@@ -53,11 +52,33 @@
 
 10. Sub-Queries
    - A query nested inside another query.
-   - Used with SELECT, INSERT, UPDATE, DELETE.
-   - Can return single or multiple values.
+   - it is Used with SELECT, INSERT, UPDATE, DELETE.
+   - it Can return single or multiple values.
 
 11. Views and Indexes
    - View: A virtual table based on a query result.
      - Created using CREATE VIEW statement.
    - Index: Improves database performance by allowing faster data retrieval.
      - Created using CREATE INDEX statement.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
