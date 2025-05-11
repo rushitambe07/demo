@@ -6,8 +6,8 @@
    - RENAME: Changes the name of an existing database object.
 
 2. DML (Data Manipulation Language)
-   - SELECT: Retrieves data from a database.     
-   - INSERT: Adds new records to a table.
+   - SELECT: Retrieves data from a database.   select * from tablename;
+   - INSERT: Adds new records to a table.      insert into tablename
    - UPDATE: Modifies existing records in a table.
    - DELETE: Removes records from a table.
 
