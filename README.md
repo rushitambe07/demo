@@ -1,8 +1,20 @@
+* Normalazation = The purpose of normalization is to reduce the complexity of the database
+    -Normalization in SQL is the process of organizing data to reduce redundancy and improve data integrity.
+    -It involves breaking down large tables into smaller.
+   - 1NF-it Ensures that each column contains atomic values (no repeating groups).
+
+ *      DROP	                                     DELETE	                     TRUNCATE
+   drop delete the entire table.	   it delete rows of a table.   it delete all the rows of a table at once.
+   data not restored by rollback 	data can restored rollback.  data not restored using rollback command.
+
+*ACID
+
+
 1. DDL (Data Definition Language)
    - CREATE: Used to create tables, databases, indexes, and other objects.---create table employee
    - ALTER: Used to modify existing database structures.--ALTER TABLE Employees ADD Email VARCHAR(255);
    - DROP: Deletes tables, databases, indexes,---DROP TABLE Employees;
-   - TRUNCATE: Removes all records from a table without logging individual row deletions.-TRUNCATE TABLE table_name;
+   - TRUNCATE: Removes all records from a table without logging individual row deletions.-TRUNCATE TABLE;
    - RENAME: Changes the name of an existing database object.---ALTER TABLE Employees RENAME TO Staff;
 
 2. DML (Data Manipulation Language)
@@ -57,7 +69,7 @@
 
 11. Views and Indexes
    - View: A virtual table based on a query result.
-     - Created using CREATE VIEW statement.
+     - Created using CREATE VIEW statement. -- create view view name as select from view;
    - Index: Improves database performance by allowing faster data retrieval.
      - Created using CREATE INDEX statement.
     
