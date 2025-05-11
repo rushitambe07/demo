@@ -1,4 +1,4 @@
--Placemates is a centralized platform that helps student to connect with previously placed alumni.
+*Placemates is a centralized platform that helps student to connect with previously placed alumni.
 -The idea came to me as I faced problems in third year.We almost missed our first three years due to pandemic
 -so we were not aware of how placements would be work in our college or what should we study for placements.
 -bascailycy My classmates also facing the same issue, so we developed the Placemates website.
@@ -12,9 +12,13 @@ such as their names, the companies they were placed in, the roles and packages t
 -  alumini= id,name,branch, batch,company,package,contack no,email,url,
 -  user= id, user,branch,passwoed,email.rollno
 
+*CricScore is a Chrome extension that provides the cricket score. I have always been excited about how extensions actually work,
+and I was also a beginner in web development, so I developed CricScore. HTML, CSS, JavaScript are the technologies used to develop it.
 
-
-
+*BlazeBuy:  The e-commerce cart project is designed to provide users with an efficient and simple shopping experience. 
+-It allows users to add, remove, and manage items in their cart, adjust quantities, and view price calculations.
+The technology used is HTML,CSS,JavaScript. The project features a responsive design, making it accessible on both mobile and desktop.
+-providing a smooth and reliable shopping experience for users while offering easy management for admins.
 
 * Normalazation = The purpose of normalization is to reduce the complexity of the database
     -Normalization in SQL is the process of organizing data to reduce redundancy and improve data integrity.
