@@ -1,3 +1,21 @@
+-Placemates is a centralized platform that helps student to connect with previously placed alumni.
+-The idea came to me as I faced problems in third year.We almost missed our first three years due to pandemic
+-so we were not aware of how placements would be work in our college or what should we study for placements.
+-bascailycy My classmates also facing the same issue, so we developed the Placemates website.
+Technologies used: React, Express, Node, and MySQL.
+The main functionality of the website is that members from the campus TNP section can add informati related to recruiters,
+such as their names, which domain they hiring,the packages they offer.info about alumni who placed in previous batches,
+such as their names, the companies they were placed in, the roles and packages they have and their contact details
+- With this information, students can prepare for placements,get idea about the companies hiring from our campus,
+-  and connect with placed alumni and understand the hiring process.
+-  company =id,company name,package,branch,10TH,12TH,skill,location,graduction,job description
+-  alumini= id,name,branch, batch,company,package,contack no,email,url,
+-  user= id, user,branch,passwoed,email.rollno
+
+
+
+
+
 * Normalazation = The purpose of normalization is to reduce the complexity of the database
     -Normalization in SQL is the process of organizing data to reduce redundancy and improve data integrity.
     -It involves breaking down large tables into smaller.
@@ -8,7 +26,10 @@
    data not restored by rollback 	data can restored rollback.  data not restored using rollback command.
 
 *ACID
-
+    Atomicity- All steps in a transaction must succeed or none of them.
+    consistency-The database correct valid before and after a transaction.
+    ioslation- Transactions not interfere with each other.
+    durability - once transaction is saved it  saved—even if the system crashes
 
 1. DDL (Data Definition Language)
    - CREATE: Used to create tables, databases, indexes, and other objects.---create table employee
