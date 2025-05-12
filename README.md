@@ -103,6 +103,19 @@ The technology used is HTML,CSS,JavaScript. The project features a responsive de
   I admire Wipro focus on delivering cutting-edge techologe to clients.
   Joining Wipro would provide me with the opportunity to grow professionally.
 
+* 5 years?
+In 5 years, I see myself as a skilled software engineer with expertise in emerging technologies like Al and cloud computing.
+I aim to take on more responsibilities, lead projects, and contribute to Wipro's growth. 
+
+* handle pressure
+ I handle pressure by staying organized and prioritizing tasks based on their urgency and importance.
+ I break down complex tasks into smaller and manageable format. stay positive attitude.
+
+* confilct
+ During my group project two team members had differing opinions on the approach to a problem. I conduct a discussion where everyone
+ shared their opinion. After listening to both sides, I suggested a compromise that incorporated the best aspects of both ideas.
+ This not only resolved the conflict but also improved quality of project.
+
 
 
 
