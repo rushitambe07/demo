@@ -97,7 +97,11 @@ The technology used is HTML,CSS,JavaScript. The project features a responsive de
      - Created using CREATE VIEW statement. -- create view view name as select from view;
    - Index: Improves database performance by allowing faster data retrieval.
      - Created using CREATE INDEX statement.
-    
+       
+* WHY WIPRO=
+  Wipro is a globally recognized IT company known for its innovation and culture, and commitment.
+  I admire Wipro focus on delivering cutting-edge techologe to clients.
+  Joining Wipro would provide me with the opportunity to grow professionally.
 
 
 
